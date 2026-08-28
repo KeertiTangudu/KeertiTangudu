@@ -25,7 +25,7 @@ Passionate about **automation, reliability, production engineering, and AI-assis
 
 - ☁️ **AWS & Azure** cloud infrastructure
 - ⚙️ **Infrastructure as Code** with Terraform and ARM
-- 🚀 **CI/CD & GitOps** with Jenkins, GitLab CI/CD, GitHub Actions and Argo CD
+- 🚀 **CI/CD automation** with GitLab CI/CD and Jenkins
 - ☸️ **Kubernetes & Docker** production deployments
 - 📊 **Monitoring & observability** with Prometheus, Grafana, Datadog, Splunk, ELK, New Relic, OpenTelemetry, CloudWatch, Alertmanager and Azure Monitor
 - 🔍 **Incident response, troubleshooting, RCA & MTTR reduction**
@@ -61,7 +61,7 @@ Passionate about **automation, reliability, production engineering, and AI-assis
 
 🔹 Built **Terraform and ARM-based Infrastructure as Code** for AWS and Azure environments, reducing manual provisioning effort by **20%** and improving infrastructure consistency.
 
-🔹 Developed **Jenkins CI/CD pipelines**, accelerating software delivery by **30%** and improving deployment efficiency.
+🔹 Developed **GitLab CI/CD and Jenkins pipelines**, accelerating software delivery by **30%** and improving deployment efficiency.
 
 🔹 Owned and resolved **500+ P1/P2 production incidents** across cloud and distributed environments, maintaining **95%+ SLA compliance**.
 
@@ -91,7 +91,9 @@ Passionate about **automation, reliability, production engineering, and AI-assis
 
 ## ⚙️ CI/CD & GitOps
 
-**GitLab CI/CD • Jenkins • GitHub Actions • Argo CD**
+**GitLab CI/CD • Jenkins**
+
+Experienced in **pipeline automation, build and release workflows, deployment automation, production releases, standardized MOPs and CI/CD troubleshooting**.
 
 ---
 
