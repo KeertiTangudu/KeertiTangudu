@@ -8,9 +8,9 @@
 <p align="center"><b>5 Years • AWS & Azure • Kubernetes • Terraform • CI/CD • SRE • Observability</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keertitangudu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://topmate.io/keerti_tangudu10/"><img src="https://img.shields.io/badge/Topmate-1%3A1%20Mentorship-111827?style=for-the-badge"/></a>
-  <a href="mailto:Keertitangudu9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/keertitangudu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://topmate.io/keerti_tangudu10/"><img src="https://img.shields.io/badge/Topmate-1%3A1%20Mentorship-111827?style=for-the-badge"/></a>
+<a href="mailto:Keertitangudu9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ Passionate about **automation, reliability, production engineering, and AI-assis
 - ⚙️ **Infrastructure as Code** with Terraform and ARM
 - 🚀 **CI/CD & GitOps** with Jenkins, GitLab CI/CD, GitHub Actions and Argo CD
 - ☸️ **Kubernetes & Docker** production deployments
-- 📊 **Observability** with Prometheus, Grafana, Datadog, Splunk, ELK, New Relic, OpenTelemetry, CloudWatch, Alertmanager and Azure Monitor
+- 📊 **Monitoring & observability** with Prometheus, Grafana, Datadog, Splunk, ELK, New Relic, OpenTelemetry, CloudWatch, Alertmanager and Azure Monitor
 - 🔍 **Incident response, troubleshooting, RCA & MTTR reduction**
 - 🔐 **IAM, RBAC, least-privilege security & network controls**
 - 💰 **Cloud cost optimization**
@@ -39,9 +39,41 @@ Passionate about **automation, reliability, production engineering, and AI-assis
 
 ## ☁️ Cloud & Infrastructure
 
-**AWS:** EC2 • EKS • VPC • ALB • IAM • S3 • RDS • EFS • Route 53 • CloudWatch
+### AWS
+**EC2 • EKS • VPC • ALB • IAM • S3 • RDS • EFS • Route 53 • CloudWatch**
 
-**Azure:** VMs • VMSS • AKS • ACR • VNet • NSG • Application Gateway • Traffic Manager • ASR • Azure Monitor
+### Azure
+**VMs • VMSS • AKS • ACR • VNet • NSG • Application Gateway • Traffic Manager • ASR • Azure Monitor**
+
+---
+
+## 📈 Impact
+
+🔹 Reduced **alert noise by 50%** through metric-based alerting, Grafana dashboards and RCA workflows, improving incident detection and response by **90%** across production environments.
+
+🔹 Managed **AWS and Azure cloud infrastructure** across compute, networking, load balancing, storage, IAM/RBAC, monitoring and production services, maintaining **99.9% availability**.
+
+🔹 Reduced **AWS cloud costs by 15%** by identifying and decommissioning unused resources and improving resource utilization.
+
+🔹 Implemented **IAM/RBAC and least-privilege access** across AWS and Azure, strengthening security through IAM policies, Azure RBAC, NSGs and network controls.
+
+🔹 Managed **Kubernetes and Docker** production deployments across **Amazon EKS and Azure AKS**, supporting scalable, highly available and resilient services.
+
+🔹 Built **Terraform and ARM-based Infrastructure as Code** for AWS and Azure environments, reducing manual provisioning effort by **20%** and improving infrastructure consistency.
+
+🔹 Developed **Jenkins CI/CD pipelines**, accelerating software delivery by **30%** and improving deployment efficiency.
+
+🔹 Owned and resolved **500+ P1/P2 production incidents** across cloud and distributed environments, maintaining **95%+ SLA compliance**.
+
+🔹 Analyzed **metrics, logs and traces** using Prometheus, Grafana, ELK, Datadog, New Relic, Splunk, CloudWatch, Azure Monitor and OpenTelemetry to troubleshoot production issues and reduce MTTR.
+
+🔹 Reduced repeat escalations by **30%** by documenting **100+ known issues**, creating operational runbooks and driving corrective/preventive actions.
+
+🔹 Led **30+ production deployments** through standardized MOPs and CAB reviews with **zero rollbacks**.
+
+🔹 Automated critical Campaign platform updates, eliminating manual operations and reducing data drift by **50%**.
+
+🔹 Supported **AWS and Azure cloud migrations, modernization and disaster recovery**, focusing on high availability, fault tolerance and production resilience.
 
 ---
 
@@ -61,8 +93,6 @@ Passionate about **automation, reliability, production engineering, and AI-assis
 
 **GitLab CI/CD • Jenkins • GitHub Actions • Argo CD**
 
-Focused on pipeline automation, release workflows, deployment consistency and GitOps-driven delivery.
-
 ---
 
 ## 📊 Observability & Monitoring
@@ -70,7 +100,6 @@ Focused on pipeline automation, release workflows, deployment consistency and Gi
 I work across the complete observability lifecycle — **metrics → dashboards → alerts → logs → traces → correlation → RCA → improvement**.
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
@@ -81,48 +110,7 @@ I work across the complete observability lifecycle — **metrics → dashboards 
 <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
 </div>
-
----
-
-## 📈 Engineering Impact
-
-🔹 Reduced **alert noise by 50%** through metric-based alerting, Grafana dashboards and RCA workflows, improving incident detection and response by **90%**.
-
-🔹 Managed AWS infrastructure including **EC2, Auto Scaling, ALB, S3, Lambda, RDS and Route 53**, maintaining **99.9% availability**.
-
-🔹 Reduced AWS cloud costs by **15%** by identifying and decommissioning unused resources.
-
-🔹 Implemented **IAM RBAC and least-privilege access** and strengthened AWS security through IAM policies and network controls.
-
-🔹 Managed **Kubernetes and Docker** production deployments supporting scalable and resilient services.
-
-🔹 Built **Terraform/ARM Infrastructure as Code**, reducing manual provisioning effort by **20%** and improving consistency.
-
-🔹 Developed **Jenkins CI/CD pipelines**, accelerating software delivery by **30%**.
-
-🔹 Owned and resolved **500+ P1/P2 production incidents**, maintaining **95%+ SLA compliance**.
-
-🔹 Reduced repeat escalations by **30%** by documenting **100+ known issues** and creating operational runbooks.
-
-🔹 Led **30+ production deployments** through standardized MOPs and CAB reviews with **zero rollbacks**.
-
-🔹 Automated critical Campaign platform updates, eliminating manual operations and reducing data drift by **50%**.
-
----
-
-## 🔥 SRE & Production Reliability
-
-- SLI / SLO and reliability engineering
-- Incident response and P1/P2 management
-- Root Cause Analysis and CAPA
-- Logs, metrics and distributed tracing
-- MTTR reduction and alert optimization
-- High availability and fault tolerance
-- Disaster Recovery and resilience
-- OS patching, hotfixes and production maintenance
-- Production readiness and operational excellence
 
 ---
 
@@ -132,13 +120,17 @@ I work across the complete observability lifecycle — **metrics → dashboards 
 
 ---
 
-## 🐍 Scripting & Data
+## 📈 SRE & Production Reliability
 
-**Python • Bash • Shell**
-
-**Databases:** RDS • SQL • DynamoDB • Redis • Cosmos DB
-
-**Networking:** VPC • VNet • ALB • Load Balancers • Application Gateway • NSG • Route 53 • Traffic Manager
+- SLI / SLO and reliability engineering
+- P1/P2 incident management and global incident response
+- Root Cause Analysis and CAPA
+- Logs, metrics and distributed tracing
+- MTTR reduction and alert optimization
+- High availability and fault tolerance
+- Disaster Recovery and resilience
+- OS patching, hotfixes and production maintenance
+- Production readiness and operational excellence
 
 ---
 
@@ -151,10 +143,8 @@ Using **GitHub Copilot and AI-assisted engineering approaches** to improve troub
 ## 🏅 Certifications
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%7C%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%7C%20Professional-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
 </div>
 
 ---
@@ -162,62 +152,19 @@ Using **GitHub Copilot and AI-assisted engineering approaches** to improve troub
 ## 📊 GitHub Commit Metrics & Activity
 
 <div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KeertiTangudu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KeertiTangudu&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KeertiTangudu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KeertiTangudu&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3"/>
 </div>
 
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeertiTangudu&bg_color=0D1117&color=FFFFFF&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeertiTangudu&bg_color=0D1117&color=FFFFFF&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </div>
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeertiTangudu&theme=github_dark" width="95%"/>
-
-</div>
-
-> **The metrics above automatically reflect your GitHub contribution and commit activity.**
-
----
-
-## 🔄 Production Engineering Flow
-
-```text
-CODE / CHANGE
-      │
-      ▼
-CI/CD & GITOPS
-      │
-      ▼
-AWS / AZURE
-      │
-      ▼
-DOCKER / KUBERNETES
-      │
-      ▼
-METRICS + LOGS + TRACES
-      │
-      ▼
-ALERT → TRIAGE → MITIGATE
-      │
-      ▼
-RCA → CAPA → PREVENT
-      │
-      ▼
-RELIABLE • SECURE • SCALABLE PRODUCTION
-```
 
 ---
 
 ## 💡 Engineering Philosophy
 
 > **Build it reliably. Automate it relentlessly. Observe it continuously. Improve it after every incident.**
-
-My focus is on solving complex infrastructure and production challenges, eliminating operational toil, improving reliability, and building scalable solutions with better delivery quality.
 
 ---
 
@@ -226,8 +173,8 @@ My focus is on solving complex infrastructure and production challenges, elimina
 Available for **1:1 mentorship sessions** and discussions around DevOps, Cloud, Kubernetes, Terraform, SRE and production engineering.
 
 <p align="center">
-  <a href="https://topmate.io/keerti_tangudu10/"><img src="https://img.shields.io/badge/Book_1%3A1_Mentorship-Topmate-111827?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/keertitangudu/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://topmate.io/keerti_tangudu10/"><img src="https://img.shields.io/badge/Book_1%3A1_Mentorship-Topmate-111827?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/keertitangudu/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <div align="center">
